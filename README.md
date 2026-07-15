@@ -1,4 +1,8 @@
-## Hi there 👋
+# 안녕하세요 홍채운입니다.
+### 전북대 ALPS 회장을 맡고있구요..
+### 아직 대학을 다니느라 포폴은 못만들었지만...
+### 나중을 위해 미리 만들어 뒀답니다...
+- 귀찮..
 
 <!--
 **hcw889/hcw889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
